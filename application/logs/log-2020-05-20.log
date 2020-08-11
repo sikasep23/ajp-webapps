@@ -1,0 +1,418 @@
+INFO - 2020-05-20 06:39:31 --> Config Class Initialized
+INFO - 2020-05-20 06:39:31 --> Hooks Class Initialized
+DEBUG - 2020-05-20 06:39:31 --> UTF-8 Support Enabled
+INFO - 2020-05-20 06:39:31 --> Utf8 Class Initialized
+INFO - 2020-05-20 06:39:31 --> URI Class Initialized
+INFO - 2020-05-20 06:39:31 --> Router Class Initialized
+INFO - 2020-05-20 06:39:31 --> Output Class Initialized
+INFO - 2020-05-20 06:39:31 --> Security Class Initialized
+DEBUG - 2020-05-20 06:39:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-05-20 06:39:31 --> Input Class Initialized
+INFO - 2020-05-20 06:39:31 --> Language Class Initialized
+INFO - 2020-05-20 06:39:31 --> Loader Class Initialized
+INFO - 2020-05-20 06:39:31 --> Helper loaded: url_helper
+INFO - 2020-05-20 06:39:31 --> Helper loaded: file_helper
+INFO - 2020-05-20 06:39:32 --> Helper loaded: cingru_helper
+INFO - 2020-05-20 06:39:32 --> Database Driver Class Initialized
+DEBUG - 2020-05-20 06:39:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-05-20 06:39:32 --> Session: Class initialized using 'files' driver.
+INFO - 2020-05-20 06:39:32 --> Email Class Initialized
+INFO - 2020-05-20 06:39:32 --> Helper loaded: form_helper
+INFO - 2020-05-20 06:39:32 --> Form Validation Class Initialized
+INFO - 2020-05-20 06:39:32 --> Encrypt Class Initialized
+INFO - 2020-05-20 06:39:32 --> Encrypt Class Initialized
+INFO - 2020-05-20 06:39:32 --> Controller Class Initialized
+INFO - 2020-05-20 06:39:32 --> Model "Manpower_model" initialized
+INFO - 2020-05-20 06:39:32 --> Config Class Initialized
+INFO - 2020-05-20 06:39:32 --> Hooks Class Initialized
+DEBUG - 2020-05-20 06:39:32 --> UTF-8 Support Enabled
+INFO - 2020-05-20 06:39:32 --> Utf8 Class Initialized
+INFO - 2020-05-20 06:39:32 --> URI Class Initialized
+INFO - 2020-05-20 06:39:32 --> Router Class Initialized
+INFO - 2020-05-20 06:39:32 --> Output Class Initialized
+INFO - 2020-05-20 06:39:32 --> Security Class Initialized
+DEBUG - 2020-05-20 06:39:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-05-20 06:39:32 --> Input Class Initialized
+INFO - 2020-05-20 06:39:32 --> Language Class Initialized
+INFO - 2020-05-20 06:39:32 --> Loader Class Initialized
+INFO - 2020-05-20 06:39:32 --> Helper loaded: url_helper
+INFO - 2020-05-20 06:39:32 --> Helper loaded: file_helper
+INFO - 2020-05-20 06:39:32 --> Helper loaded: cingru_helper
+INFO - 2020-05-20 06:39:32 --> Database Driver Class Initialized
+DEBUG - 2020-05-20 06:39:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-05-20 06:39:32 --> Session: Class initialized using 'files' driver.
+INFO - 2020-05-20 06:39:32 --> Email Class Initialized
+INFO - 2020-05-20 06:39:32 --> Helper loaded: form_helper
+INFO - 2020-05-20 06:39:32 --> Form Validation Class Initialized
+INFO - 2020-05-20 06:39:32 --> Encrypt Class Initialized
+INFO - 2020-05-20 06:39:32 --> Encrypt Class Initialized
+INFO - 2020-05-20 06:39:32 --> Controller Class Initialized
+INFO - 2020-05-20 06:39:33 --> File loaded: C:\xampp\htdocs\ajp\application\views\login.php
+INFO - 2020-05-20 06:39:33 --> Final output sent to browser
+DEBUG - 2020-05-20 06:39:33 --> Total execution time: 0.2827
+INFO - 2020-05-20 06:39:42 --> Config Class Initialized
+INFO - 2020-05-20 06:39:42 --> Hooks Class Initialized
+DEBUG - 2020-05-20 06:39:42 --> UTF-8 Support Enabled
+INFO - 2020-05-20 06:39:42 --> Utf8 Class Initialized
+INFO - 2020-05-20 06:39:42 --> URI Class Initialized
+INFO - 2020-05-20 06:39:42 --> Router Class Initialized
+INFO - 2020-05-20 06:39:42 --> Output Class Initialized
+INFO - 2020-05-20 06:39:42 --> Security Class Initialized
+DEBUG - 2020-05-20 06:39:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-05-20 06:39:42 --> Input Class Initialized
+INFO - 2020-05-20 06:39:42 --> Language Class Initialized
+INFO - 2020-05-20 06:39:42 --> Loader Class Initialized
+INFO - 2020-05-20 06:39:42 --> Helper loaded: url_helper
+INFO - 2020-05-20 06:39:42 --> Helper loaded: file_helper
+INFO - 2020-05-20 06:39:42 --> Helper loaded: cingru_helper
+INFO - 2020-05-20 06:39:42 --> Database Driver Class Initialized
+DEBUG - 2020-05-20 06:39:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-05-20 06:39:42 --> Session: Class initialized using 'files' driver.
+INFO - 2020-05-20 06:39:42 --> Email Class Initialized
+INFO - 2020-05-20 06:39:42 --> Helper loaded: form_helper
+INFO - 2020-05-20 06:39:42 --> Form Validation Class Initialized
+INFO - 2020-05-20 06:39:42 --> Encrypt Class Initialized
+INFO - 2020-05-20 06:39:42 --> Encrypt Class Initialized
+INFO - 2020-05-20 06:39:42 --> Controller Class Initialized
+INFO - 2020-05-20 06:39:42 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-05-20 06:39:43 --> Config Class Initialized
+INFO - 2020-05-20 06:39:43 --> Hooks Class Initialized
+DEBUG - 2020-05-20 06:39:43 --> UTF-8 Support Enabled
+INFO - 2020-05-20 06:39:43 --> Utf8 Class Initialized
+INFO - 2020-05-20 06:39:43 --> URI Class Initialized
+INFO - 2020-05-20 06:39:43 --> Router Class Initialized
+INFO - 2020-05-20 06:39:43 --> Output Class Initialized
+INFO - 2020-05-20 06:39:43 --> Security Class Initialized
+DEBUG - 2020-05-20 06:39:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-05-20 06:39:43 --> Input Class Initialized
+INFO - 2020-05-20 06:39:43 --> Language Class Initialized
+INFO - 2020-05-20 06:39:43 --> Loader Class Initialized
+INFO - 2020-05-20 06:39:43 --> Helper loaded: url_helper
+INFO - 2020-05-20 06:39:43 --> Helper loaded: file_helper
+INFO - 2020-05-20 06:39:43 --> Helper loaded: cingru_helper
+INFO - 2020-05-20 06:39:43 --> Database Driver Class Initialized
+DEBUG - 2020-05-20 06:39:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-05-20 06:39:43 --> Session: Class initialized using 'files' driver.
+INFO - 2020-05-20 06:39:43 --> Email Class Initialized
+INFO - 2020-05-20 06:39:43 --> Helper loaded: form_helper
+INFO - 2020-05-20 06:39:43 --> Form Validation Class Initialized
+INFO - 2020-05-20 06:39:43 --> Encrypt Class Initialized
+INFO - 2020-05-20 06:39:43 --> Encrypt Class Initialized
+INFO - 2020-05-20 06:39:43 --> Controller Class Initialized
+INFO - 2020-05-20 06:39:43 --> File loaded: C:\xampp\htdocs\ajp\application\views\login.php
+INFO - 2020-05-20 06:39:43 --> Final output sent to browser
+DEBUG - 2020-05-20 06:39:43 --> Total execution time: 0.2554
+INFO - 2020-05-20 06:39:56 --> Config Class Initialized
+INFO - 2020-05-20 06:39:56 --> Hooks Class Initialized
+DEBUG - 2020-05-20 06:39:56 --> UTF-8 Support Enabled
+INFO - 2020-05-20 06:39:56 --> Utf8 Class Initialized
+INFO - 2020-05-20 06:39:56 --> URI Class Initialized
+INFO - 2020-05-20 06:39:56 --> Router Class Initialized
+INFO - 2020-05-20 06:39:56 --> Output Class Initialized
+INFO - 2020-05-20 06:39:56 --> Security Class Initialized
+DEBUG - 2020-05-20 06:39:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-05-20 06:39:56 --> Input Class Initialized
+INFO - 2020-05-20 06:39:56 --> Language Class Initialized
+INFO - 2020-05-20 06:39:56 --> Loader Class Initialized
+INFO - 2020-05-20 06:39:56 --> Helper loaded: url_helper
+INFO - 2020-05-20 06:39:56 --> Helper loaded: file_helper
+INFO - 2020-05-20 06:39:56 --> Helper loaded: cingru_helper
+INFO - 2020-05-20 06:39:56 --> Database Driver Class Initialized
+DEBUG - 2020-05-20 06:39:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-05-20 06:39:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-05-20 06:39:56 --> Email Class Initialized
+INFO - 2020-05-20 06:39:56 --> Helper loaded: form_helper
+INFO - 2020-05-20 06:39:56 --> Form Validation Class Initialized
+INFO - 2020-05-20 06:39:56 --> Encrypt Class Initialized
+INFO - 2020-05-20 06:39:56 --> Encrypt Class Initialized
+INFO - 2020-05-20 06:39:56 --> Controller Class Initialized
+INFO - 2020-05-20 06:39:56 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-05-20 06:39:56 --> Config Class Initialized
+INFO - 2020-05-20 06:39:56 --> Hooks Class Initialized
+DEBUG - 2020-05-20 06:39:56 --> UTF-8 Support Enabled
+INFO - 2020-05-20 06:39:56 --> Utf8 Class Initialized
+INFO - 2020-05-20 06:39:56 --> URI Class Initialized
+INFO - 2020-05-20 06:39:56 --> Router Class Initialized
+INFO - 2020-05-20 06:39:56 --> Output Class Initialized
+INFO - 2020-05-20 06:39:56 --> Security Class Initialized
+DEBUG - 2020-05-20 06:39:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-05-20 06:39:56 --> Input Class Initialized
+INFO - 2020-05-20 06:39:56 --> Language Class Initialized
+INFO - 2020-05-20 06:39:56 --> Loader Class Initialized
+INFO - 2020-05-20 06:39:56 --> Helper loaded: url_helper
+INFO - 2020-05-20 06:39:56 --> Helper loaded: file_helper
+INFO - 2020-05-20 06:39:56 --> Helper loaded: cingru_helper
+INFO - 2020-05-20 06:39:56 --> Database Driver Class Initialized
+DEBUG - 2020-05-20 06:39:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-05-20 06:39:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-05-20 06:39:56 --> Email Class Initialized
+INFO - 2020-05-20 06:39:56 --> Helper loaded: form_helper
+INFO - 2020-05-20 06:39:56 --> Form Validation Class Initialized
+INFO - 2020-05-20 06:39:56 --> Encrypt Class Initialized
+INFO - 2020-05-20 06:39:56 --> Encrypt Class Initialized
+INFO - 2020-05-20 06:39:56 --> Controller Class Initialized
+INFO - 2020-05-20 06:39:56 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/header.php
+INFO - 2020-05-20 06:39:56 --> File loaded: C:\xampp\htdocs\ajp\application\views\dashboard.php
+INFO - 2020-05-20 06:39:56 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/footer.php
+INFO - 2020-05-20 06:39:56 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/template.php
+INFO - 2020-05-20 06:39:56 --> Final output sent to browser
+DEBUG - 2020-05-20 06:39:56 --> Total execution time: 0.4344
+INFO - 2020-05-20 06:40:03 --> Config Class Initialized
+INFO - 2020-05-20 06:40:03 --> Hooks Class Initialized
+DEBUG - 2020-05-20 06:40:03 --> UTF-8 Support Enabled
+INFO - 2020-05-20 06:40:03 --> Utf8 Class Initialized
+INFO - 2020-05-20 06:40:03 --> URI Class Initialized
+INFO - 2020-05-20 06:40:03 --> Router Class Initialized
+INFO - 2020-05-20 06:40:03 --> Output Class Initialized
+INFO - 2020-05-20 06:40:03 --> Security Class Initialized
+DEBUG - 2020-05-20 06:40:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-05-20 06:40:03 --> Input Class Initialized
+INFO - 2020-05-20 06:40:03 --> Language Class Initialized
+INFO - 2020-05-20 06:40:03 --> Loader Class Initialized
+INFO - 2020-05-20 06:40:03 --> Helper loaded: url_helper
+INFO - 2020-05-20 06:40:03 --> Helper loaded: file_helper
+INFO - 2020-05-20 06:40:03 --> Helper loaded: cingru_helper
+INFO - 2020-05-20 06:40:03 --> Database Driver Class Initialized
+DEBUG - 2020-05-20 06:40:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-05-20 06:40:03 --> Session: Class initialized using 'files' driver.
+INFO - 2020-05-20 06:40:03 --> Email Class Initialized
+INFO - 2020-05-20 06:40:03 --> Helper loaded: form_helper
+INFO - 2020-05-20 06:40:03 --> Form Validation Class Initialized
+INFO - 2020-05-20 06:40:03 --> Encrypt Class Initialized
+INFO - 2020-05-20 06:40:03 --> Encrypt Class Initialized
+INFO - 2020-05-20 06:40:03 --> Controller Class Initialized
+INFO - 2020-05-20 06:40:03 --> Model "Manpower_model" initialized
+INFO - 2020-05-20 06:40:03 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/header.php
+INFO - 2020-05-20 06:40:03 --> File loaded: C:\xampp\htdocs\ajp\application\views\master/manpower.php
+INFO - 2020-05-20 06:40:03 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/footer.php
+INFO - 2020-05-20 06:40:03 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/template.php
+INFO - 2020-05-20 06:40:03 --> Final output sent to browser
+DEBUG - 2020-05-20 06:40:03 --> Total execution time: 0.4844
+INFO - 2020-05-20 06:40:04 --> Config Class Initialized
+INFO - 2020-05-20 06:40:04 --> Hooks Class Initialized
+INFO - 2020-05-20 06:40:04 --> Config Class Initialized
+DEBUG - 2020-05-20 06:40:04 --> UTF-8 Support Enabled
+INFO - 2020-05-20 06:40:04 --> Hooks Class Initialized
+INFO - 2020-05-20 06:40:04 --> Utf8 Class Initialized
+INFO - 2020-05-20 06:40:04 --> URI Class Initialized
+DEBUG - 2020-05-20 06:40:04 --> UTF-8 Support Enabled
+INFO - 2020-05-20 06:40:04 --> Utf8 Class Initialized
+INFO - 2020-05-20 06:40:04 --> Router Class Initialized
+INFO - 2020-05-20 06:40:04 --> URI Class Initialized
+INFO - 2020-05-20 06:40:04 --> Output Class Initialized
+INFO - 2020-05-20 06:40:04 --> Router Class Initialized
+INFO - 2020-05-20 06:40:04 --> Security Class Initialized
+DEBUG - 2020-05-20 06:40:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-05-20 06:40:04 --> Output Class Initialized
+INFO - 2020-05-20 06:40:04 --> Input Class Initialized
+INFO - 2020-05-20 06:40:04 --> Security Class Initialized
+INFO - 2020-05-20 06:40:04 --> Language Class Initialized
+DEBUG - 2020-05-20 06:40:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-05-20 06:40:04 --> Input Class Initialized
+INFO - 2020-05-20 06:40:04 --> Loader Class Initialized
+INFO - 2020-05-20 06:40:04 --> Config Class Initialized
+INFO - 2020-05-20 06:40:04 --> Language Class Initialized
+INFO - 2020-05-20 06:40:04 --> Helper loaded: url_helper
+INFO - 2020-05-20 06:40:04 --> Hooks Class Initialized
+INFO - 2020-05-20 06:40:04 --> Helper loaded: file_helper
+INFO - 2020-05-20 06:40:04 --> Loader Class Initialized
+INFO - 2020-05-20 06:40:04 --> Helper loaded: cingru_helper
+INFO - 2020-05-20 06:40:04 --> Helper loaded: url_helper
+DEBUG - 2020-05-20 06:40:04 --> UTF-8 Support Enabled
+INFO - 2020-05-20 06:40:04 --> Utf8 Class Initialized
+INFO - 2020-05-20 06:40:04 --> Helper loaded: file_helper
+INFO - 2020-05-20 06:40:04 --> Database Driver Class Initialized
+INFO - 2020-05-20 06:40:04 --> Helper loaded: cingru_helper
+INFO - 2020-05-20 06:40:04 --> URI Class Initialized
+INFO - 2020-05-20 06:40:04 --> Router Class Initialized
+DEBUG - 2020-05-20 06:40:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-05-20 06:40:04 --> Database Driver Class Initialized
+INFO - 2020-05-20 06:40:04 --> Session: Class initialized using 'files' driver.
+INFO - 2020-05-20 06:40:04 --> Output Class Initialized
+DEBUG - 2020-05-20 06:40:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-05-20 06:40:04 --> Security Class Initialized
+INFO - 2020-05-20 06:40:04 --> Email Class Initialized
+DEBUG - 2020-05-20 06:40:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-05-20 06:40:04 --> Helper loaded: form_helper
+INFO - 2020-05-20 06:40:04 --> Form Validation Class Initialized
+INFO - 2020-05-20 06:40:04 --> Input Class Initialized
+INFO - 2020-05-20 06:40:04 --> Language Class Initialized
+INFO - 2020-05-20 06:40:04 --> Encrypt Class Initialized
+INFO - 2020-05-20 06:40:04 --> Encrypt Class Initialized
+INFO - 2020-05-20 06:40:04 --> Controller Class Initialized
+INFO - 2020-05-20 06:40:04 --> Model "Manpower_model" initialized
+ERROR - 2020-05-20 06:40:04 --> 404 Page Not Found: Master/assets
+INFO - 2020-05-20 06:40:04 --> Final output sent to browser
+DEBUG - 2020-05-20 06:40:04 --> Total execution time: 0.3742
+INFO - 2020-05-20 06:40:04 --> Session: Class initialized using 'files' driver.
+INFO - 2020-05-20 06:40:04 --> Email Class Initialized
+INFO - 2020-05-20 06:40:04 --> Helper loaded: form_helper
+INFO - 2020-05-20 06:40:04 --> Form Validation Class Initialized
+INFO - 2020-05-20 06:40:04 --> Encrypt Class Initialized
+INFO - 2020-05-20 06:40:04 --> Encrypt Class Initialized
+INFO - 2020-05-20 06:40:04 --> Controller Class Initialized
+INFO - 2020-05-20 06:40:04 --> Model "Manpower_model" initialized
+INFO - 2020-05-20 06:40:04 --> Final output sent to browser
+DEBUG - 2020-05-20 06:40:04 --> Total execution time: 0.4520
+INFO - 2020-05-20 06:40:05 --> Config Class Initialized
+INFO - 2020-05-20 06:40:05 --> Hooks Class Initialized
+DEBUG - 2020-05-20 06:40:05 --> UTF-8 Support Enabled
+INFO - 2020-05-20 06:40:05 --> Utf8 Class Initialized
+INFO - 2020-05-20 06:40:05 --> URI Class Initialized
+INFO - 2020-05-20 06:40:05 --> Router Class Initialized
+INFO - 2020-05-20 06:40:05 --> Output Class Initialized
+INFO - 2020-05-20 06:40:05 --> Security Class Initialized
+DEBUG - 2020-05-20 06:40:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-05-20 06:40:05 --> Input Class Initialized
+INFO - 2020-05-20 06:40:05 --> Language Class Initialized
+INFO - 2020-05-20 06:40:05 --> Loader Class Initialized
+INFO - 2020-05-20 06:40:05 --> Helper loaded: url_helper
+INFO - 2020-05-20 06:40:05 --> Helper loaded: file_helper
+INFO - 2020-05-20 06:40:05 --> Helper loaded: cingru_helper
+INFO - 2020-05-20 06:40:05 --> Database Driver Class Initialized
+DEBUG - 2020-05-20 06:40:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-05-20 06:40:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-05-20 06:40:05 --> Email Class Initialized
+INFO - 2020-05-20 06:40:05 --> Helper loaded: form_helper
+INFO - 2020-05-20 06:40:05 --> Form Validation Class Initialized
+INFO - 2020-05-20 06:40:05 --> Encrypt Class Initialized
+INFO - 2020-05-20 06:40:05 --> Encrypt Class Initialized
+INFO - 2020-05-20 06:40:05 --> Controller Class Initialized
+INFO - 2020-05-20 06:40:05 --> Model "Manpower_model" initialized
+INFO - 2020-05-20 06:40:05 --> Final output sent to browser
+DEBUG - 2020-05-20 06:40:05 --> Total execution time: 0.3367
+INFO - 2020-05-20 08:19:10 --> Config Class Initialized
+INFO - 2020-05-20 08:19:10 --> Hooks Class Initialized
+DEBUG - 2020-05-20 08:19:10 --> UTF-8 Support Enabled
+INFO - 2020-05-20 08:19:10 --> Utf8 Class Initialized
+INFO - 2020-05-20 08:19:10 --> URI Class Initialized
+INFO - 2020-05-20 08:19:10 --> Router Class Initialized
+INFO - 2020-05-20 08:19:10 --> Output Class Initialized
+INFO - 2020-05-20 08:19:10 --> Security Class Initialized
+DEBUG - 2020-05-20 08:19:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-05-20 08:19:10 --> Input Class Initialized
+INFO - 2020-05-20 08:19:10 --> Language Class Initialized
+INFO - 2020-05-20 08:19:10 --> Loader Class Initialized
+INFO - 2020-05-20 08:19:10 --> Helper loaded: url_helper
+INFO - 2020-05-20 08:19:10 --> Helper loaded: file_helper
+INFO - 2020-05-20 08:19:10 --> Helper loaded: cingru_helper
+INFO - 2020-05-20 08:19:10 --> Database Driver Class Initialized
+DEBUG - 2020-05-20 08:19:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-05-20 08:19:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-05-20 08:19:10 --> Email Class Initialized
+INFO - 2020-05-20 08:19:10 --> Helper loaded: form_helper
+INFO - 2020-05-20 08:19:10 --> Form Validation Class Initialized
+INFO - 2020-05-20 08:19:10 --> Encrypt Class Initialized
+INFO - 2020-05-20 08:19:10 --> Encrypt Class Initialized
+INFO - 2020-05-20 08:19:10 --> Controller Class Initialized
+INFO - 2020-05-20 08:19:10 --> Model "Manpower_model" initialized
+INFO - 2020-05-20 08:19:10 --> Final output sent to browser
+DEBUG - 2020-05-20 08:19:10 --> Total execution time: 0.2951
+INFO - 2020-05-20 08:19:16 --> Config Class Initialized
+INFO - 2020-05-20 08:19:16 --> Hooks Class Initialized
+DEBUG - 2020-05-20 08:19:16 --> UTF-8 Support Enabled
+INFO - 2020-05-20 08:19:17 --> Utf8 Class Initialized
+INFO - 2020-05-20 08:19:17 --> URI Class Initialized
+INFO - 2020-05-20 08:19:17 --> Router Class Initialized
+INFO - 2020-05-20 08:19:17 --> Output Class Initialized
+INFO - 2020-05-20 08:19:17 --> Security Class Initialized
+DEBUG - 2020-05-20 08:19:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-05-20 08:19:17 --> Input Class Initialized
+INFO - 2020-05-20 08:19:17 --> Language Class Initialized
+INFO - 2020-05-20 08:19:17 --> Loader Class Initialized
+INFO - 2020-05-20 08:19:17 --> Helper loaded: url_helper
+INFO - 2020-05-20 08:19:17 --> Helper loaded: file_helper
+INFO - 2020-05-20 08:19:17 --> Helper loaded: cingru_helper
+INFO - 2020-05-20 08:19:17 --> Database Driver Class Initialized
+DEBUG - 2020-05-20 08:19:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-05-20 08:19:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-05-20 08:19:17 --> Email Class Initialized
+INFO - 2020-05-20 08:19:17 --> Helper loaded: form_helper
+INFO - 2020-05-20 08:19:17 --> Form Validation Class Initialized
+INFO - 2020-05-20 08:19:17 --> Encrypt Class Initialized
+INFO - 2020-05-20 08:19:17 --> Encrypt Class Initialized
+INFO - 2020-05-20 08:19:17 --> Controller Class Initialized
+INFO - 2020-05-20 08:19:17 --> Model "Manpower_model" initialized
+INFO - 2020-05-20 08:19:17 --> Final output sent to browser
+DEBUG - 2020-05-20 08:19:17 --> Total execution time: 0.2151
+INFO - 2020-05-20 08:19:17 --> Config Class Initialized
+INFO - 2020-05-20 08:19:17 --> Hooks Class Initialized
+DEBUG - 2020-05-20 08:19:17 --> UTF-8 Support Enabled
+INFO - 2020-05-20 08:19:17 --> Utf8 Class Initialized
+INFO - 2020-05-20 08:19:17 --> URI Class Initialized
+INFO - 2020-05-20 08:19:17 --> Router Class Initialized
+INFO - 2020-05-20 08:19:17 --> Output Class Initialized
+INFO - 2020-05-20 08:19:17 --> Security Class Initialized
+DEBUG - 2020-05-20 08:19:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-05-20 08:19:17 --> Input Class Initialized
+INFO - 2020-05-20 08:19:17 --> Language Class Initialized
+INFO - 2020-05-20 08:19:17 --> Loader Class Initialized
+INFO - 2020-05-20 08:19:17 --> Helper loaded: url_helper
+INFO - 2020-05-20 08:19:17 --> Helper loaded: file_helper
+INFO - 2020-05-20 08:19:17 --> Helper loaded: cingru_helper
+INFO - 2020-05-20 08:19:17 --> Database Driver Class Initialized
+DEBUG - 2020-05-20 08:19:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-05-20 08:19:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-05-20 08:19:17 --> Email Class Initialized
+INFO - 2020-05-20 08:19:17 --> Helper loaded: form_helper
+INFO - 2020-05-20 08:19:17 --> Form Validation Class Initialized
+INFO - 2020-05-20 08:19:17 --> Encrypt Class Initialized
+INFO - 2020-05-20 08:19:17 --> Encrypt Class Initialized
+INFO - 2020-05-20 08:19:17 --> Controller Class Initialized
+INFO - 2020-05-20 08:19:17 --> Model "Manpower_model" initialized
+INFO - 2020-05-20 08:19:17 --> Final output sent to browser
+DEBUG - 2020-05-20 08:19:17 --> Total execution time: 0.3685
+INFO - 2020-05-20 08:19:24 --> Config Class Initialized
+INFO - 2020-05-20 08:19:24 --> Hooks Class Initialized
+DEBUG - 2020-05-20 08:19:24 --> UTF-8 Support Enabled
+INFO - 2020-05-20 08:19:24 --> Utf8 Class Initialized
+INFO - 2020-05-20 08:19:24 --> URI Class Initialized
+INFO - 2020-05-20 08:19:24 --> Router Class Initialized
+INFO - 2020-05-20 08:19:24 --> Output Class Initialized
+INFO - 2020-05-20 08:19:24 --> Security Class Initialized
+DEBUG - 2020-05-20 08:19:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-05-20 08:19:24 --> Input Class Initialized
+INFO - 2020-05-20 08:19:24 --> Language Class Initialized
+INFO - 2020-05-20 08:19:24 --> Loader Class Initialized
+INFO - 2020-05-20 08:19:24 --> Helper loaded: url_helper
+INFO - 2020-05-20 08:19:24 --> Helper loaded: file_helper
+INFO - 2020-05-20 08:19:24 --> Helper loaded: cingru_helper
+INFO - 2020-05-20 08:19:24 --> Database Driver Class Initialized
+DEBUG - 2020-05-20 08:19:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-05-20 08:19:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-05-20 08:19:24 --> Email Class Initialized
+INFO - 2020-05-20 08:19:24 --> Helper loaded: form_helper
+INFO - 2020-05-20 08:19:24 --> Form Validation Class Initialized
+INFO - 2020-05-20 08:19:24 --> Encrypt Class Initialized
+INFO - 2020-05-20 08:19:24 --> Encrypt Class Initialized
+INFO - 2020-05-20 08:19:24 --> Controller Class Initialized
+INFO - 2020-05-20 08:19:24 --> Model "Manpower_model" initialized
+INFO - 2020-05-20 08:19:24 --> Final output sent to browser
+DEBUG - 2020-05-20 08:19:24 --> Total execution time: 0.2184
+INFO - 2020-05-20 08:19:24 --> Config Class Initialized
+INFO - 2020-05-20 08:19:24 --> Hooks Class Initialized
+DEBUG - 2020-05-20 08:19:24 --> UTF-8 Support Enabled
+INFO - 2020-05-20 08:19:24 --> Utf8 Class Initialized
+INFO - 2020-05-20 08:19:24 --> URI Class Initialized
+INFO - 2020-05-20 08:19:24 --> Router Class Initialized
+INFO - 2020-05-20 08:19:24 --> Output Class Initialized
+INFO - 2020-05-20 08:19:24 --> Security Class Initialized
+DEBUG - 2020-05-20 08:19:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-05-20 08:19:24 --> Input Class Initialized
+INFO - 2020-05-20 08:19:24 --> Language Class Initialized
+INFO - 2020-05-20 08:19:24 --> Loader Class Initialized
+INFO - 2020-05-20 08:19:24 --> Helper loaded: url_helper
+INFO - 2020-05-20 08:19:24 --> Helper loaded: file_helper
+INFO - 2020-05-20 08:19:24 --> Helper loaded: cingru_helper
+INFO - 2020-05-20 08:19:24 --> Database Driver Class Initialized
+DEBUG - 2020-05-20 08:19:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-05-20 08:19:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-05-20 08:19:24 --> Email Class Initialized
+INFO - 2020-05-20 08:19:24 --> Helper loaded: form_helper
+INFO - 2020-05-20 08:19:24 --> Form Validation Class Initialized
+INFO - 2020-05-20 08:19:24 --> Encrypt Class Initialized
+INFO - 2020-05-20 08:19:24 --> Encrypt Class Initialized
+INFO - 2020-05-20 08:19:24 --> Controller Class Initialized
+INFO - 2020-05-20 08:19:24 --> Model "Manpower_model" initialized
+INFO - 2020-05-20 08:19:24 --> Final output sent to browser
+DEBUG - 2020-05-20 08:19:24 --> Total execution time: 0.2749
