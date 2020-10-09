@@ -85,3 +85,30 @@ $route['master/material_group_update'] = 'material_group/material_group_update';
 $route['master/material_group_add'] = 'material_group/material_group_add';
 $route['master/material_group_new'] = 'material_group/material_group_new';
 $route['master/material_group_code'] = 'material_group/material_group_code';
+//route master_equiptment
+$route['master/m_equipment'] = 'm_equipment';
+$route['master/m_equipment_get'] = 'm_equipment/m_equipment_get';
+$route['master/m_equipment_edit/(:any)'] = 'm_equipment/m_equipment_edit/$1';
+$route['master/m_equipment_delete/(:any)'] = 'm_equipment/m_equipment_delete/$1';
+$route['master/m_equipment_update'] = 'm_equipment/m_equipment_update';
+$route['master/m_equipment_add'] = 'm_equipment/m_equipment_add';
+$route['master/m_equipment_new'] = 'm_equipment/m_equipment_new';
+$route['master/m_equipment_code'] = 'm_equipment/m_equipment_code';
+//route uom
+$route['master/uom'] = 'uom';
+$route['master/uom_get'] = 'uom/uom_get';
+$route['master/uom_edit/(:any)'] = 'uom/uom_edit/$1';
+$route['master/uom_delete/(:any)'] = 'uom/uom_delete/$1';
+$route['master/uom_update'] = 'uom/uom_update';
+$route['master/uom_add'] = 'uom/uom_add';
+$route['master/uom_new'] = 'uom/uom_new';
+$route['master/uom_code'] = 'uom/uom_code';
+//route brand
+$route['master/m_brand'] = 'm_brand';
+$route['master/m_brand_get'] = 'm_brand/m_brand_get';
+$route['master/m_brand_edit/(:any)'] = 'm_brand/m_brand_edit/$1';
+$route['master/m_brand_delete/(:any)'] = 'm_brand/m_brand_delete/$1';
+$route['master/m_brand_update'] = 'm_brand/m_brand_update';
+$route['master/m_brand_add'] = 'm_brand/m_brand_add';
+$route['master/m_brand_new'] = 'm_brand/m_brand_new';
+$route['master/m_brand_code'] = 'm_brand/m_brand_code';

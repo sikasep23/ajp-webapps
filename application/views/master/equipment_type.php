@@ -20,13 +20,13 @@
                             <div class="form-group row ">
                                 <label for="dept_code" class="col-4 col-form-label">Code *</label>
                                 <div class="col-8">
-                                    <input class="form-control" type="text" name="eq_code" id="eq_code" readonly>
+                                    <input class="form-control form-control-sm" type="text" name="eq_code" id="eq_code" readonly>
                                 </div>
                             </div>
                             <div class="form-group row">
                                 <label for="dept" class="col-4 col-form-label">Equipment Type</label>
                                 <div class="col-8">
-                                    <input class="form-control" type="text" name="eq_type" id="eq_type">
+                                    <input class="form-control form-control-sm" type="text" name="eq_type" id="eq_type">
                                 </div>
                             </div>
                             <div style="float: right">

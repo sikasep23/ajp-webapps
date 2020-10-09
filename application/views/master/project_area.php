@@ -19,19 +19,19 @@
                             <div class="form-group row ">
                                 <label for="code_pa" class="col-4 col-form-label">Code *</label>
                                 <div class="col-8">
-                                    <input class="form-control" type="text" name="code_pa" id="code_pa" readonly>
+                                    <input class="form-control form-control-sm" type="text" name="code_pa" id="code_pa" readonly>
                                 </div>
                             </div>
                             <div class="form-group row">
                                 <label for="pa" class="col-4 col-form-label">Project Area *</label>
                                 <div class="col-8">
-                                    <input class="form-control" type="text" name="pa" id="pa">
+                                    <input class="form-control form-control-sm" type="text" name="pa" id="pa">
                                 </div>
                             </div>
                             <div class="form-group row">
                                 <label for="npwp_pa" class="col-4 col-form-label">NPWP</label>
                                 <div class="col-8">
-                                    <input class="form-control" type="text" name="npwp_pa" id="npwp_pa">
+                                    <input class="form-control form-control-sm" type="text" name="npwp_pa" id="npwp_pa">
                                 </div>
                             </div>
                             <div class="form-group row">

@@ -58,7 +58,7 @@
                                     <label for="code" class="form-label">Code *</label>
                                     <input class="form-control" type="text" name="code" id="code" readonly>
                                     <span class="help-block"></span>
-                                    <input type="text" name="method" id="method">
+                                    <input type="hidden" name="method" id="method">
                                     <input type="hidden" name="id" id="id">
                                 </fieldset>
                                 <fieldset class="form-group">

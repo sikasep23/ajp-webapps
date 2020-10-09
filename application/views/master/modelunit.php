@@ -20,19 +20,19 @@
                             <div class="form-group row ">
                                 <label for="dept_code" class="col-4 col-form-label">Code *</label>
                                 <div class="col-8">
-                                    <input class="form-control" type="text" name="mu_code" id="mu_code" readonly>
+                                    <input class="form-control form-control-sm" type="text" name="mu_code" id="mu_code" readonly>
                                 </div>
                             </div>
                             <div class="form-group row">
                                 <label for="dept" class="col-4 col-form-label">Model unit</label>
                                 <div class="col-8">
-                                    <input class="form-control" type="text" name="mu" id="mu">
+                                    <input class="form-control form-control-sm" type="text" name="mu" id="mu">
                                 </div>
                             </div>
                             <div class="form-group row">
                                 <label for="dept" class="col-4 col-form-label">Manufacture</label>
                                 <div class="col-8">
-                                    <select class="form-control select2" name="mu_manufacture" id="mu_manufacture">
+                                    <select class="form-control form-control-sm select2" name="mu_manufacture" id="mu_manufacture">
                                         <option></option>
                                     <?php foreach ($manufacture as $m):?>
                                         <option value="<?= $m['manufacture_code'];?>"><?= $m['manufacture'];?></option>

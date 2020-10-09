@@ -6,7 +6,7 @@
 
                 $queryMenu = "SELECT user_menu.id, user_menu.icon, menu FROM user_menu JOIN user_access_menu ON user_menu.id = user_access_menu.menu_id WHERE user_access_menu.role_id = $role AND is_active = '1' GROUP BY user_access_menu.menu_id ORDER BY user_menu.sort ASC";
                 $menu = $this->db->query($queryMenu)->result_array();
-                
+
                 ?>
 
                <ul class="navigation-menu">
@@ -16,15 +16,30 @@
 
                            <?php
                             $menuid = $m['id'];
-                            $qSubMenu = "SELECT * FROM user_sub_menu JOIN user_access_menu ON user_sub_menu.id = user_access_menu.submenu_id WHERE user_sub_menu.menu_id = $menuid AND user_access_menu.role_id = $role AND user_sub_menu.is_active = 1 ORDER BY sort ASC";
+                            $qSubMenu = "SELECT * FROM user_sub_menu JOIN user_access_menu ON user_sub_menu.id = user_access_menu.submenu_id WHERE user_sub_menu.menu_id = $menuid AND user_access_menu.role_id = $role AND user_sub_menu.is_active = 1 ORDER BY sort ASC limit 9";
+                            $qSubMenu2 = "SELECT * FROM user_sub_menu JOIN user_access_menu ON user_sub_menu.id = user_access_menu.submenu_id WHERE user_sub_menu.menu_id = $menuid AND user_access_menu.role_id = $role AND user_sub_menu.is_active = 1 ORDER BY sort ASC limit 9 offset 9";
 
                             $subMenu = $this->db->query($qSubMenu)->result_array();
+                            $subMenu2 = $this->db->query($qSubMenu2)->result_array();
 
                             ?>
-                           <ul class="submenu">
-                               <?php foreach ($subMenu as $sm) :  ?>
-                                   <li><a href="<?= base_url().$sm['url']; ?>"><?= $sm['title']; ?></a></li>
-                               <?php endforeach ?>
+                           <ul class="submenu <?php if ($m['menu'] == 'Master Data') {
+                               echo 'megamenu';
+                           }?>">
+                               <li>
+                                   <ul>
+                                       <?php foreach ($subMenu as $sm) :  ?>
+                                           <li><a href="<?= base_url() . $sm['url']; ?>"><?= $sm['title']; ?></a></li>
+                                       <?php endforeach ?>
+                                   </ul>
+                               </li>
+                               <li>
+                                   <ul>
+                                       <?php foreach ($subMenu2 as $sm) :  ?>
+                                           <li><a href="<?= base_url() . $sm['url']; ?>"><?= $sm['title']; ?></a></li>
+                                       <?php endforeach ?>
+                                   </ul>
+                               </li>
                            </ul>
                        </li>
                    <?php endforeach ?>
