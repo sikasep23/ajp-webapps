@@ -130,3 +130,12 @@ $route['master/m_storage_location_update'] = 'm_storage_location/m_storage_locat
 $route['master/m_storage_location_add'] = 'm_storage_location/m_storage_location_add';
 $route['master/m_storage_location_new'] = 'm_storage_location/m_storage_location_new';
 $route['master/m_storage_location_code'] = 'm_storage_location/m_storage_location_code';
+//route master supplier
+$route['master/m_supplier'] = 'm_supplier';
+$route['master/m_supplier_get'] = 'm_supplier/m_supplier_get';
+$route['master/m_supplier_edit/(:any)'] = 'm_supplier/m_supplier_edit/$1';
+$route['master/m_supplier_delete/(:any)'] = 'm_supplier/m_supplier_delete/$1';
+$route['master/m_supplier_update'] = 'm_supplier/m_supplier_update';
+$route['master/m_supplier_add'] = 'm_supplier/m_supplier_add';
+$route['master/m_supplier_new'] = 'm_supplier/m_supplier_new';
+$route['master/m_supplier_code'] = 'm_supplier/m_supplier_code';

@@ -19,25 +19,33 @@
                             <div class="form-group row ">
                                 <label for="sg_code" class="col-4 col-form-label">Code *</label>
                                 <div class="col-8">
-                                    <input class="form-control form-control-sm" type="text" name="sg_code" id="sg_code" readonly>
+                                    <input class="form-control form-control-sm" type="text" name="code" id="code" readonly>
                                 </div>
                             </div>
                             <div class="form-group row">
-                                <label for="sg" class="col-4 col-form-label">Supplier Group*</label>
+                                <label for="sg" class="col-4 col-form-label">Storage *</label>
                                 <div class="col-8">
-                                    <input class="form-control form-control-sm" type="text" name="sg" id="sg">
+                                    <input class="form-control form-control-sm" type="text" name="storage" id="storage">
                                 </div>
                             </div>
                             <div class="form-group row">
-                                <label for="brand" class="col-4 col-form-label">Currency*</label>
+                                <label for="sg" class="col-4 col-form-label">Project *</label>
                                 <div class="col-8">
-                                    <select name="sg_currency" id="sg_currency" class="form-control form-control-sm">
-                                        <?php foreach ($currency as $c) : ?>
-                                            <option value="<?= $c['currency']; ?>"><?= $c['currency']; ?></option>
-                                        <?php endforeach ?>
+                                    <select name="project" id="project" class="form-control form-control-sm">
+                                        <option value="">Select project</option>
+                                        <?php foreach ($project as $p) : ?>
+                                            <option value="<?= $p['id']?>"><?= $p['projectarea_code'].'-'.$p['projectarea_area'];?></option>
+                                        <?php endforeach; ?>
                                     </select>
                                 </div>
                             </div>
+                            <div class="form-group row">
+                                <label for="sg" class="col-4 col-form-label">Type *</label>
+                                <div class="col-8">
+                                    <input class="form-control form-control-sm" type="text" name="type" id="type">
+                                </div>
+                            </div>
+
 
                             <div style="float: right">
                                 <a href="javascript:void(0)" type="btn btn-primary" id="btnSave" class="btn btn-primary">Save</a>
@@ -48,12 +56,13 @@
                 </div>
                 <div class="col-lg-12 col-sm-12 col-xs-12 col-md-12 col-xl-8">
                     <fieldset class="form-group">
-                        <table id="sg_table" class="table table-bordered table-bordered dt-responsive nowrap" cellspacing="0" width="100%">
+                        <table id="storage_table" class="table table-bordered table-bordered dt-responsive nowrap" cellspacing="0" width="100%">
                             <thead>
                                 <tr>
                                     <th scope="col">Code</th>
-                                    <th scope="col">Supplier Group</th>
-                                    <th scope="col">Currrency</th>
+                                    <th scope="col">Project area</th>
+                                    <th scope="col">Storage</th>
+                                    <th scope="col">Type</th>
                                     <th width="20%" scope="col">Action</th>
                                 </tr>
                             </thead>

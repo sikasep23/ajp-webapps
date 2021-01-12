@@ -12,6 +12,7 @@ $('.form-check-input').on('click', function(){
             submenuID:submenuID,
             menuId:menuId,
             roleId:roleId
+            
         },
         success: function(){
             document.location.href = ''+url+'administrator/roleaccess/'+encode+''
