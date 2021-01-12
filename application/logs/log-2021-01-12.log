@@ -547,3 +547,238 @@ INFO - 2021-01-12 11:16:58 --> File loaded: C:\xampp\htdocs\ajp\application\view
 INFO - 2021-01-12 11:16:58 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/template.php
 INFO - 2021-01-12 11:16:58 --> Final output sent to browser
 DEBUG - 2021-01-12 11:16:58 --> Total execution time: 0.2880
+INFO - 2021-01-12 11:47:09 --> Config Class Initialized
+INFO - 2021-01-12 11:47:09 --> Hooks Class Initialized
+DEBUG - 2021-01-12 11:47:09 --> UTF-8 Support Enabled
+INFO - 2021-01-12 11:47:09 --> Utf8 Class Initialized
+INFO - 2021-01-12 11:47:09 --> URI Class Initialized
+DEBUG - 2021-01-12 11:47:09 --> No URI present. Default controller set.
+INFO - 2021-01-12 11:47:09 --> Router Class Initialized
+INFO - 2021-01-12 11:47:09 --> Output Class Initialized
+INFO - 2021-01-12 11:47:09 --> Security Class Initialized
+DEBUG - 2021-01-12 11:47:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-12 11:47:09 --> Input Class Initialized
+INFO - 2021-01-12 11:47:09 --> Language Class Initialized
+INFO - 2021-01-12 11:47:10 --> Loader Class Initialized
+INFO - 2021-01-12 11:47:10 --> Helper loaded: url_helper
+INFO - 2021-01-12 11:47:10 --> Helper loaded: file_helper
+INFO - 2021-01-12 11:47:10 --> Helper loaded: cingru_helper
+INFO - 2021-01-12 11:47:10 --> Database Driver Class Initialized
+DEBUG - 2021-01-12 11:47:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-12 11:47:10 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-12 11:47:10 --> Email Class Initialized
+INFO - 2021-01-12 11:47:10 --> Helper loaded: form_helper
+INFO - 2021-01-12 11:47:10 --> Form Validation Class Initialized
+INFO - 2021-01-12 11:47:10 --> Encrypt Class Initialized
+INFO - 2021-01-12 11:47:10 --> Encrypt Class Initialized
+INFO - 2021-01-12 11:47:10 --> Controller Class Initialized
+INFO - 2021-01-12 11:47:10 --> Config Class Initialized
+INFO - 2021-01-12 11:47:10 --> Hooks Class Initialized
+DEBUG - 2021-01-12 11:47:10 --> UTF-8 Support Enabled
+INFO - 2021-01-12 11:47:10 --> Utf8 Class Initialized
+INFO - 2021-01-12 11:47:10 --> URI Class Initialized
+INFO - 2021-01-12 11:47:10 --> Router Class Initialized
+INFO - 2021-01-12 11:47:10 --> Output Class Initialized
+INFO - 2021-01-12 11:47:10 --> Security Class Initialized
+DEBUG - 2021-01-12 11:47:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-12 11:47:10 --> Input Class Initialized
+INFO - 2021-01-12 11:47:10 --> Language Class Initialized
+INFO - 2021-01-12 11:47:10 --> Loader Class Initialized
+INFO - 2021-01-12 11:47:10 --> Helper loaded: url_helper
+INFO - 2021-01-12 11:47:10 --> Helper loaded: file_helper
+INFO - 2021-01-12 11:47:10 --> Helper loaded: cingru_helper
+INFO - 2021-01-12 11:47:10 --> Database Driver Class Initialized
+DEBUG - 2021-01-12 11:47:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-12 11:47:10 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-12 11:47:10 --> Email Class Initialized
+INFO - 2021-01-12 11:47:10 --> Helper loaded: form_helper
+INFO - 2021-01-12 11:47:10 --> Form Validation Class Initialized
+INFO - 2021-01-12 11:47:10 --> Encrypt Class Initialized
+INFO - 2021-01-12 11:47:10 --> Encrypt Class Initialized
+INFO - 2021-01-12 11:47:10 --> Controller Class Initialized
+INFO - 2021-01-12 11:47:11 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/header.php
+INFO - 2021-01-12 11:47:11 --> File loaded: C:\xampp\htdocs\ajp\application\views\dashboard.php
+INFO - 2021-01-12 11:47:11 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/footer.php
+INFO - 2021-01-12 11:47:11 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/template.php
+INFO - 2021-01-12 11:47:11 --> Final output sent to browser
+DEBUG - 2021-01-12 11:47:11 --> Total execution time: 0.5312
+INFO - 2021-01-12 11:47:41 --> Config Class Initialized
+INFO - 2021-01-12 11:47:41 --> Hooks Class Initialized
+DEBUG - 2021-01-12 11:47:41 --> UTF-8 Support Enabled
+INFO - 2021-01-12 11:47:41 --> Utf8 Class Initialized
+INFO - 2021-01-12 11:47:41 --> URI Class Initialized
+INFO - 2021-01-12 11:47:41 --> Router Class Initialized
+INFO - 2021-01-12 11:47:41 --> Output Class Initialized
+INFO - 2021-01-12 11:47:41 --> Security Class Initialized
+DEBUG - 2021-01-12 11:47:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-12 11:47:41 --> Input Class Initialized
+INFO - 2021-01-12 11:47:41 --> Language Class Initialized
+INFO - 2021-01-12 11:47:41 --> Loader Class Initialized
+INFO - 2021-01-12 11:47:41 --> Helper loaded: url_helper
+INFO - 2021-01-12 11:47:41 --> Helper loaded: file_helper
+INFO - 2021-01-12 11:47:41 --> Helper loaded: cingru_helper
+INFO - 2021-01-12 11:47:41 --> Database Driver Class Initialized
+DEBUG - 2021-01-12 11:47:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-12 11:47:41 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-12 11:47:41 --> Email Class Initialized
+INFO - 2021-01-12 11:47:41 --> Helper loaded: form_helper
+INFO - 2021-01-12 11:47:41 --> Form Validation Class Initialized
+INFO - 2021-01-12 11:47:41 --> Encrypt Class Initialized
+INFO - 2021-01-12 11:47:41 --> Encrypt Class Initialized
+INFO - 2021-01-12 11:47:41 --> Controller Class Initialized
+INFO - 2021-01-12 11:47:41 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/header.php
+INFO - 2021-01-12 11:47:41 --> File loaded: C:\xampp\htdocs\ajp\application\views\dashboard.php
+INFO - 2021-01-12 11:47:41 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/footer.php
+INFO - 2021-01-12 11:47:41 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/template.php
+INFO - 2021-01-12 11:47:41 --> Final output sent to browser
+DEBUG - 2021-01-12 11:47:41 --> Total execution time: 0.3952
+INFO - 2021-01-12 11:49:57 --> Config Class Initialized
+INFO - 2021-01-12 11:49:57 --> Hooks Class Initialized
+DEBUG - 2021-01-12 11:49:57 --> UTF-8 Support Enabled
+INFO - 2021-01-12 11:49:57 --> Utf8 Class Initialized
+INFO - 2021-01-12 11:49:57 --> URI Class Initialized
+INFO - 2021-01-12 11:49:58 --> Router Class Initialized
+INFO - 2021-01-12 11:49:58 --> Output Class Initialized
+INFO - 2021-01-12 11:49:58 --> Security Class Initialized
+DEBUG - 2021-01-12 11:49:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-12 11:49:58 --> Input Class Initialized
+INFO - 2021-01-12 11:49:58 --> Language Class Initialized
+INFO - 2021-01-12 11:49:58 --> Loader Class Initialized
+INFO - 2021-01-12 11:49:58 --> Helper loaded: url_helper
+INFO - 2021-01-12 11:49:58 --> Helper loaded: file_helper
+INFO - 2021-01-12 11:49:58 --> Helper loaded: cingru_helper
+INFO - 2021-01-12 11:49:58 --> Database Driver Class Initialized
+DEBUG - 2021-01-12 11:49:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-12 11:49:58 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-12 11:49:58 --> Email Class Initialized
+INFO - 2021-01-12 11:49:58 --> Helper loaded: form_helper
+INFO - 2021-01-12 11:49:58 --> Form Validation Class Initialized
+INFO - 2021-01-12 11:49:58 --> Encrypt Class Initialized
+INFO - 2021-01-12 11:49:58 --> Encrypt Class Initialized
+INFO - 2021-01-12 11:49:58 --> Controller Class Initialized
+INFO - 2021-01-12 11:49:58 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/header.php
+INFO - 2021-01-12 11:49:58 --> File loaded: C:\xampp\htdocs\ajp\application\views\dashboard.php
+INFO - 2021-01-12 11:49:58 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/footer.php
+INFO - 2021-01-12 11:49:58 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/template.php
+INFO - 2021-01-12 11:49:58 --> Final output sent to browser
+DEBUG - 2021-01-12 11:49:58 --> Total execution time: 0.2600
+INFO - 2021-01-12 11:52:06 --> Config Class Initialized
+INFO - 2021-01-12 11:52:06 --> Hooks Class Initialized
+DEBUG - 2021-01-12 11:52:06 --> UTF-8 Support Enabled
+INFO - 2021-01-12 11:52:06 --> Utf8 Class Initialized
+INFO - 2021-01-12 11:52:06 --> URI Class Initialized
+INFO - 2021-01-12 11:52:06 --> Router Class Initialized
+INFO - 2021-01-12 11:52:06 --> Output Class Initialized
+INFO - 2021-01-12 11:52:06 --> Security Class Initialized
+DEBUG - 2021-01-12 11:52:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-12 11:52:06 --> Input Class Initialized
+INFO - 2021-01-12 11:52:06 --> Language Class Initialized
+INFO - 2021-01-12 11:52:06 --> Loader Class Initialized
+INFO - 2021-01-12 11:52:06 --> Helper loaded: url_helper
+INFO - 2021-01-12 11:52:06 --> Helper loaded: file_helper
+INFO - 2021-01-12 11:52:06 --> Helper loaded: cingru_helper
+INFO - 2021-01-12 11:52:06 --> Database Driver Class Initialized
+DEBUG - 2021-01-12 11:52:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-12 11:52:06 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-12 11:52:06 --> Email Class Initialized
+INFO - 2021-01-12 11:52:06 --> Helper loaded: form_helper
+INFO - 2021-01-12 11:52:06 --> Form Validation Class Initialized
+INFO - 2021-01-12 11:52:06 --> Encrypt Class Initialized
+INFO - 2021-01-12 11:52:06 --> Encrypt Class Initialized
+INFO - 2021-01-12 11:52:06 --> Controller Class Initialized
+INFO - 2021-01-12 11:52:06 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/header.php
+INFO - 2021-01-12 11:52:06 --> File loaded: C:\xampp\htdocs\ajp\application\views\dashboard.php
+INFO - 2021-01-12 11:52:06 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/footer.php
+INFO - 2021-01-12 11:52:06 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/template.php
+INFO - 2021-01-12 11:52:06 --> Final output sent to browser
+DEBUG - 2021-01-12 11:52:06 --> Total execution time: 0.2785
+INFO - 2021-01-12 11:53:29 --> Config Class Initialized
+INFO - 2021-01-12 11:53:29 --> Hooks Class Initialized
+DEBUG - 2021-01-12 11:53:29 --> UTF-8 Support Enabled
+INFO - 2021-01-12 11:53:29 --> Utf8 Class Initialized
+INFO - 2021-01-12 11:53:29 --> URI Class Initialized
+INFO - 2021-01-12 11:53:29 --> Router Class Initialized
+INFO - 2021-01-12 11:53:29 --> Output Class Initialized
+INFO - 2021-01-12 11:53:29 --> Security Class Initialized
+DEBUG - 2021-01-12 11:53:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-12 11:53:29 --> Input Class Initialized
+INFO - 2021-01-12 11:53:29 --> Language Class Initialized
+INFO - 2021-01-12 11:53:29 --> Loader Class Initialized
+INFO - 2021-01-12 11:53:30 --> Helper loaded: url_helper
+INFO - 2021-01-12 11:53:30 --> Helper loaded: file_helper
+INFO - 2021-01-12 11:53:30 --> Helper loaded: cingru_helper
+INFO - 2021-01-12 11:53:30 --> Database Driver Class Initialized
+DEBUG - 2021-01-12 11:53:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-12 11:53:30 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-12 11:53:30 --> Email Class Initialized
+INFO - 2021-01-12 11:53:30 --> Helper loaded: form_helper
+INFO - 2021-01-12 11:53:30 --> Form Validation Class Initialized
+INFO - 2021-01-12 11:53:30 --> Encrypt Class Initialized
+INFO - 2021-01-12 11:53:30 --> Encrypt Class Initialized
+INFO - 2021-01-12 11:53:30 --> Controller Class Initialized
+INFO - 2021-01-12 11:53:30 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/header.php
+INFO - 2021-01-12 11:53:30 --> File loaded: C:\xampp\htdocs\ajp\application\views\dashboard.php
+INFO - 2021-01-12 11:53:30 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/footer.php
+INFO - 2021-01-12 11:53:30 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/template.php
+INFO - 2021-01-12 11:53:30 --> Final output sent to browser
+DEBUG - 2021-01-12 11:53:30 --> Total execution time: 0.2986
+INFO - 2021-01-12 11:53:49 --> Config Class Initialized
+INFO - 2021-01-12 11:53:49 --> Hooks Class Initialized
+DEBUG - 2021-01-12 11:53:49 --> UTF-8 Support Enabled
+INFO - 2021-01-12 11:53:49 --> Utf8 Class Initialized
+INFO - 2021-01-12 11:53:49 --> URI Class Initialized
+INFO - 2021-01-12 11:53:49 --> Router Class Initialized
+INFO - 2021-01-12 11:53:49 --> Output Class Initialized
+INFO - 2021-01-12 11:53:49 --> Security Class Initialized
+DEBUG - 2021-01-12 11:53:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-12 11:53:49 --> Input Class Initialized
+INFO - 2021-01-12 11:53:49 --> Language Class Initialized
+INFO - 2021-01-12 11:53:49 --> Loader Class Initialized
+INFO - 2021-01-12 11:53:49 --> Helper loaded: url_helper
+INFO - 2021-01-12 11:53:49 --> Helper loaded: file_helper
+INFO - 2021-01-12 11:53:49 --> Helper loaded: cingru_helper
+INFO - 2021-01-12 11:53:49 --> Database Driver Class Initialized
+DEBUG - 2021-01-12 11:53:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-12 11:53:49 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-12 11:53:49 --> Email Class Initialized
+INFO - 2021-01-12 11:53:49 --> Helper loaded: form_helper
+INFO - 2021-01-12 11:53:49 --> Form Validation Class Initialized
+INFO - 2021-01-12 11:53:49 --> Encrypt Class Initialized
+INFO - 2021-01-12 11:53:49 --> Encrypt Class Initialized
+INFO - 2021-01-12 11:53:49 --> Controller Class Initialized
+INFO - 2021-01-12 11:53:49 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/header.php
+INFO - 2021-01-12 11:53:49 --> File loaded: C:\xampp\htdocs\ajp\application\views\dashboard.php
+INFO - 2021-01-12 11:53:49 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/footer.php
+INFO - 2021-01-12 11:53:49 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/template.php
+INFO - 2021-01-12 11:53:49 --> Final output sent to browser
+DEBUG - 2021-01-12 11:53:49 --> Total execution time: 0.3057
+INFO - 2021-01-12 11:54:06 --> Config Class Initialized
+INFO - 2021-01-12 11:54:06 --> Hooks Class Initialized
+DEBUG - 2021-01-12 11:54:06 --> UTF-8 Support Enabled
+INFO - 2021-01-12 11:54:06 --> Utf8 Class Initialized
+INFO - 2021-01-12 11:54:06 --> URI Class Initialized
+INFO - 2021-01-12 11:54:06 --> Router Class Initialized
+INFO - 2021-01-12 11:54:06 --> Output Class Initialized
+INFO - 2021-01-12 11:54:06 --> Security Class Initialized
+DEBUG - 2021-01-12 11:54:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-12 11:54:06 --> Input Class Initialized
+INFO - 2021-01-12 11:54:06 --> Language Class Initialized
+INFO - 2021-01-12 11:54:06 --> Loader Class Initialized
+INFO - 2021-01-12 11:54:06 --> Helper loaded: url_helper
+INFO - 2021-01-12 11:54:06 --> Helper loaded: file_helper
+INFO - 2021-01-12 11:54:06 --> Helper loaded: cingru_helper
+INFO - 2021-01-12 11:54:06 --> Database Driver Class Initialized
+DEBUG - 2021-01-12 11:54:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-12 11:54:06 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-12 11:54:06 --> Email Class Initialized
+INFO - 2021-01-12 11:54:06 --> Helper loaded: form_helper
+INFO - 2021-01-12 11:54:06 --> Form Validation Class Initialized
+INFO - 2021-01-12 11:54:06 --> Encrypt Class Initialized
+INFO - 2021-01-12 11:54:06 --> Encrypt Class Initialized
+INFO - 2021-01-12 11:54:06 --> Controller Class Initialized
+INFO - 2021-01-12 11:54:06 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/header.php
+INFO - 2021-01-12 11:54:06 --> File loaded: C:\xampp\htdocs\ajp\application\views\dashboard.php
+INFO - 2021-01-12 11:54:06 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/footer.php
+INFO - 2021-01-12 11:54:06 --> File loaded: C:\xampp\htdocs\ajp\application\views\layout/template.php
+INFO - 2021-01-12 11:54:06 --> Final output sent to browser
+DEBUG - 2021-01-12 11:54:06 --> Total execution time: 0.3031

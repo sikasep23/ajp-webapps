@@ -16,8 +16,13 @@ class Dashboard extends CI_Controller
     $data['title']        = 'Dashboard';
     $data['main_content'] = 'dashboard';
     $data['class'] = 'active';
-    $data['additional_header'] = "";
-    $data['additional_footer'] = '';
+    $data['additional_header'] = '
+    <link rel="stylesheet" href="' . base_url() . 'assets/plugins/morris/morris.css">';
+    $data['additional_footer'] = '
+    <script src="'.base_url().'assets/plugins/morris/morris.min.js"></script>
+    <script src="'.base_url().'assets/plugins/raphael/raphael-min.js"></script>
+    <script src="'.base_url().'assets/pages/jquery.dashboard.js"></script>
+    ';
     $this->load->view('layout/template', $data);
   }
 }
